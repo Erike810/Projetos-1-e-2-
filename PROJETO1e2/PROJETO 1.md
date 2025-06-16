@@ -323,6 +323,8 @@ Copiar
 Editar
 Representante: aluno 3 (4 votos)  
 Vice: aluno 10 (3 votos)
+ 
+ 
  Problema 4 – Diário da Professora
  Descrição
 Cada aluno fez 5 provas valendo 20 pontos. O programa soma as notas e determina a situação do aluno: aprovado (>=60), recuperação (40 a 59), ou reprovado (<40).
